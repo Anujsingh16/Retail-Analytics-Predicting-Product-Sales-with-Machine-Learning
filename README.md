@@ -76,8 +76,3 @@ Trained a Random Forest Regressor to predict sales
 
 Evaluated model performance using R² and error metrics
 
-📊 Results
-
-Random Forest achieved strong predictive performance on sales prediction.
-
-Demonstrated the importance of feature engineering (e.g., visibility correction, outlet details).
